@@ -1,4 +1,4 @@
 addon_name="[B]BRASIL TV [/B] [COLOR lime]v.1.0.0[/COLOR]"
 addon_image="https://raw.githubusercontent.com/FenixJellyfin/LojaFenix/main/addons/plugin.video.Brasil.TV/icon.png"
-addon_xml="https://raw.githubusercontent.com/FenixJellyfin/LojaFenix/main/addons/plugin.video.Brasil.TV/addon.xml"
+addon_xml="https://raw.githubusercontent.com/FenixJellyfin/LojaFenix/refs/heads/main/addons/plugin.video.Brasil.TV/addon.xml"
 
