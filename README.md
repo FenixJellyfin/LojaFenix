@@ -16,8 +16,10 @@ Instruções para a adição no gestor:
     <li>Para aceder ao Add-ons</li>
     <li>Programas - Add-ons</li>
     <li>KODI 19, 20, 21</li>
+    
 -----------------------
-Como ativar um add-on após a instalação (se necessário)
+    
+ Como ativar um add-on após a instalação (se necessário)
     
   <li>Se instalou um add-on da Loja Fenix e ele não aparecer ou não funcionar de imediato, basta fazer isto:</li>
   <li>1. No ecrã principal do Kodi, vá a Add-ons e clique no ícone da caixa aberta (no canto superior esquerdo) que diz Os meus add-ons.</li>
