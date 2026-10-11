@@ -8,13 +8,13 @@ Instruções para a adição no gestor:
   <ul>
     <li>Ir para o Kodi gestor de ficheiros.</li>
     <li>Clicar em "Adicionar fonte"</li>
-    <li>O endereço para a fonte é <code>[https://tinyurl.com/lojafenix1]</code> (Dar o nome de "lojafenix1").</li>
+    <li>O endereço para a fonte é <code>[https://tinyurl.com/lojak]</code> (Dar o nome de "lojak").</li>
     <li>Ir para "Addons"</li>
-    <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "sttakeone", e instalar <a href="store.repo.Fenix.zip">store.repo.TakeOne.zip</a>.</li>
+    <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "lojak", e instalar <a href="store.repo.Fenix.zip">store.repo.Fenix.zip</a>.</li>
     -----------------------
     <li>Repositório Instalado!</li>
     <li>Para aceder ao Add-ons</li>
     <li>Programas - Add-ons</li>
     <li>KODI 19, 20, 21</li>
-                     ........DIVIRTAM-SE Team TakeOne.......
+                     ........DIVIRTAM-SE Team CineKeep.......
 </ul>
