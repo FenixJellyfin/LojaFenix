@@ -8,7 +8,7 @@ Instruções para a adição no gestor:
   <ul>
     <li>Ir para o Kodi gestor de ficheiros.</li>
     <li>Clicar em "Adicionar fonte"</li>
-    <li>O endereço para a fonte é <code>[https://tinyurl.com/sttakeone]</code> (Dar o nome de "sttakeone").</li>
+    <li>O endereço para a fonte é <code>[https://tinyurl.com/lojafenix1]</code> (Dar o nome de "lojafenix1").</li>
     <li>Ir para "Addons"</li>
     <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "sttakeone", e instalar <a href="store.repo.Fenix.zip">store.repo.TakeOne.zip</a>.</li>
     -----------------------
