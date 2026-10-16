@@ -1,4 +1,8 @@
 category="Addons Filmes" addon_name="[B]CineKeep[/B] [COLOR lime]V.1.1[/COLOR]" addon_image="https://raw.githubusercontent.com/FenixJellyfin/LojaFenix/main/addons/plugin.video.CineKeep/icon.png" addon_xml="https://raw.githubusercontent.com/FenixJellyfin/LojaFenix/main/addons/plugin.video.CineKeep/addon.xml"
+category="Addons Filmes" addon_name="[B]Stream_player[/B] [COLOR lime]1.0.0[/COLOR]" addon_image="https://raw.githubusercontent.com/FenixJellyfin/LojaFenix/refs/heads/main/addons/Stream_player/icon.png" addon_xml="https://raw.githubusercontent.com/FenixJellyfin/LojaFenix/refs/heads/main/addons/Stream_player/addon.xml"
 category="Dependências" addon_name="[COLOR yellow][SCRIPT][/COLOR] Requests" addon_image="https://raw.githubusercontent.com/FenixJellyfin/LojaFenix/main/Dependencias/script.module.requests/icon.png" addon_xml="https://raw.githubusercontent.com/FenixJellyfin/LojaFenix/main/Dependencias/script.module.requests/addon.xml"
 category="Dependências" addon_name="[COLOR yellow][SCRIPT][/COLOR] Urllib3" addon_image="https://raw.githubusercontent.com/FenixJellyfin/LojaFenix/main/Dependencias/script.module.urllib/icon.png" addon_xml="https://raw.githubusercontent.com/FenixJellyfin/LojaFenix/main/Dependencias/script.module.urllib/addon.xml"
 category="Dependências" addon_name="[COLOR yellow][SCRIPT][/COLOR] Netunblock" addon_image="https://raw.githubusercontent.com/FenixJellyfin/LojaFenix/main/Dependencias/Netunblock/icon.png" addon_xml="https://raw.githubusercontent.com/FenixJellyfin/LojaFenix/main/Dependencias/Netunblock/addon.xml"
+
+
+
